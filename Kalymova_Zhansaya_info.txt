@@ -1,0 +1,5 @@
+Name: Zhansaya
+Surname: Kalymova
+Group: IT2-2312
+Student ID: 37552
+Course: DevOps
