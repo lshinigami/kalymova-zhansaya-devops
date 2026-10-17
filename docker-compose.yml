@@ -1,0 +1,12 @@
+services:
+  app:
+    build: .
+    image: kalymova-zhansaya-devops
+    container_name: kalymova-zhansaya-compose
+    ports:
+      - "8001:8000"
+    environment:
+      STUDENT_NAME: Zhansaya
+      STUDENT_SURNAME: Kalymova
+      STUDENT_GROUP: IT2-2312
+      STUDENT_ID: "37552"
